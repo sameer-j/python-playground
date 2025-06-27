@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+google-auth
+google-genai
+google-cloud-aiplatform
+pydantic 
